@@ -3,3 +3,12 @@ C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CopyComplete
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
