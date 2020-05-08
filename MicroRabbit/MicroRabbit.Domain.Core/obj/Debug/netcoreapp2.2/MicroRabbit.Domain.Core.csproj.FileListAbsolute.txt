@@ -1,0 +1,9 @@
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.deps.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
