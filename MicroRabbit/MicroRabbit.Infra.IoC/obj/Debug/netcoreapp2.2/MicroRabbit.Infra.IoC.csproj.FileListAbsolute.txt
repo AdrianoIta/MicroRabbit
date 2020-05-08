@@ -1,0 +1,5 @@
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.deps.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.AssemblyInfo.cs
