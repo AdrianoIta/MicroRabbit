@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MicroRabbit.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        }
       }
     }
   },
@@ -678,10 +688,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "MicroRabbit.Banking.Domain >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanadr02\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+              "projectPath": "C:\\Users\\sanadr02\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
