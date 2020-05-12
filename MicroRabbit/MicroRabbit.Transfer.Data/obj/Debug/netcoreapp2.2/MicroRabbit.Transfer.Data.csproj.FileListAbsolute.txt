@@ -1,9 +1,16 @@
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.deps.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.runtimeconfig.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csproj.CopyComplete
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
 C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
