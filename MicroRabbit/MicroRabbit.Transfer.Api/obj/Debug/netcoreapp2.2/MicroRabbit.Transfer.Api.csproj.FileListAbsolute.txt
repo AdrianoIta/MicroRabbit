@@ -1,0 +1,14 @@
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.deps.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.runtimeconfig.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.runtimeconfig.dev.json
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.pdb
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.csprojAssemblyReference.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.csproj.CoreCompileInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.RazorAssemblyInfo.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.RazorAssemblyInfo.cs
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.AssemblyInfoInputs.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.AssemblyInfo.cs
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.RazorTargetAssemblyInfo.cache
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.dll
+C:\Users\sanadr02\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.pdb
